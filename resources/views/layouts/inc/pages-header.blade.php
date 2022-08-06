@@ -1,0 +1,1 @@
+@livewire('author.top-header')
